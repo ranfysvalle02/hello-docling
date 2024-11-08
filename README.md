@@ -3,7 +3,7 @@
 
 ![](docling.png)
 
-Docling is an open-source Python library for efficient document conversion and analysis.
+[Docling](https://ds4sd.github.io/docling/) is an open-source Python library for efficient document conversion and analysis.
 
 ## How It Works
 
